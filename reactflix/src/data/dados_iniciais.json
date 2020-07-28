@@ -1,0 +1,223 @@
+{
+  "categorias": [
+    {
+      "titulo": "Front End",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Até o Torvalds fez Hello World um dia... #CJR",
+          "url": "https://www.youtube.com/watch?v=S5S9LIT-hdc&t=8s"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        }           
+      ]
+    },
+    {
+      "titulo": "Configurando o PC",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Dual Boot Windows/Ubuntu",
+          "url": "https://www.youtube.com/watch?v=6D6L9Wml1oY&t=688s"
+        }
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [       
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        },       
+        {
+          "titulo": "Simple Ruby on Rails 5 REST API From Scratch",
+          "url": "https://www.youtube.com/watch?v=QojnRc7SS9o"
+        },      
+        {
+          "titulo": "Episódio 1 - Criando uma API Completa com Rails",
+          "url": "https://www.youtube.com/watch?v=EqOoElCjpNI"
+        },
+        {
+          "titulo": "Episódio 2 - Criando uma API Completa com Rails",
+          "url": "https://www.youtube.com/watch?v=_-xeqJfvKew"
+        },
+        {
+          "titulo": "O que é API? REST e RESTful? | Mayk Brito",
+          "url": "https://www.youtube.com/watch?v=ghTrp1x_1As"
+        },        
+        {
+          "titulo": "REST // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=S7MduKwvVGk"
+        }          
+      ]
+    },
+    {
+      "titulo": "Test Driven Development",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Episode #101 - Testing with RSpec",
+          "url": "https://www.youtube.com/watch?v=71eKcNxwxVY"
+        },
+        {
+          "titulo": "TDD (Test Driven Development) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=bLdEypr2e-8"
+        },
+        {
+          "titulo": "Alura: Curso de Testes: TDD com Java - Aula 1",
+          "url": "https://www.youtube.com/watch?v=Dyls2ljtAZQ"
+        },
+        {
+          "titulo": "Testes no NodeJS aplicando TDD com Jest | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=2G_mWfG0DZE"
+        }
+      ]
+    },
+    {
+      "titulo": "Cybersecurity: aplicações web",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "How to build a secure web applications with Ruby on Rails",
+          "url": "https://www.youtube.com/watch?v=_-Dnys7_ESE"
+        },
+        {
+          "titulo": "JWT (JSON Web Token - Autenticação e Segurança) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=Gyq-yeot8qM"
+        }
+      ]
+    },
+    {
+      "titulo": "Banco de Dados",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "ORM (A Ponte entre Orientação a Objetos e o Banco de Dados) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=snOXxJa31GI"
+        },
+        {
+          "titulo": "ActiveRecord Explain",
+          "url": "https://www.youtube.com/watch?v=hbXv6KzpUms"
+        },
+        {
+          "titulo": "Learn PostgreSQL Tutorial - Full Course for Beginners",
+          "url": "https://www.youtube.com/watch?v=qw--VYLpxG4"
+        }    
+      ]
+    },
+    {
+      "titulo": "HTML",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "HTML Full Course - Build a Website Tutorial",
+          "url": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+        }
+      ]
+    },
+    {
+      "titulo": "CSS",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Desvendando o CSS Grid na prática | Mayk Brito",
+          "url": "https://www.youtube.com/watch?v=HN1UjzRSdBk&t=688s"
+        }
+      ]
+    },
+    {
+      "titulo": "JavaScript",
+      "cor": "blue",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "O que é JavaScript? | #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q"
+        }
+      ]
+    },
+    {
+      "titulo": "React",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Iniciando no ReactJS | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=7A4UQGrFU9Q"
+        }
+      ]
+    },
+    {
+      "titulo": "Ruby",
+      "cor": "purple",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Ruby Programming Language - Full Course",
+          "url": "https://www.youtube.com/watch?v=t_ispmWmdjY"
+        }
+      ]
+    },
+    {
+      "titulo": "Ruby On Rails",
+      "cor": "red",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "A História de Ruby on Rails | Por que deu certo?",
+          "url": "https://www.youtube.com/watch?v=oEorhw5r2Do"
+        }
+      ]
+    },
+    {
+      "titulo": "Git",
+      "cor": "green",
+      "videos": [       
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    }
+  ]
+}
