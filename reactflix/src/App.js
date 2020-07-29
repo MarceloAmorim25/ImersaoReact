@@ -10,7 +10,7 @@ function App() {
 
   return (
 
-    <div>
+    <div style={{background: "#141414"}}>
 
       <Menu/>
 
